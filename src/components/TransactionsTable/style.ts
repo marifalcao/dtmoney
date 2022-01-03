@@ -24,10 +24,10 @@ export const Container = styles.div`
       &:first-child {
         color: var(--text-title);
       }
-      &.retirada {
+      &.withdraw {
         color: var(--red);
       }
-      &.deposito {
+      &.deposit {
         color: var(--green);
       }
     }
